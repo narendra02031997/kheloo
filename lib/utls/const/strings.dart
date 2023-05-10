@@ -1,0 +1,12 @@
+const String PROMOTIONS='Promotions';
+const String LOGIN='LOGIN';
+const String ENGLISH='English';
+const String HINDI='हिन्दी';
+const String TAMIL='తెలుగు';
+const String TELGU='ಕನ್ನಡ';
+const String MARATHI='मराठी';
+const String LIVE_WITHDRAWL='LIVE WITHDRAWAL';
+const String MOST_POPULAR='Most Popular (15)';
+const String GAMES='GAMES';
+const String SHOW_MORE='Show More';
+const String SHOW_LESS='Hide';
